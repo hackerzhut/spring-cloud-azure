@@ -41,4 +41,4 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ## Data and Telemetry 
 
-This project collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to learn more.
+This project collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to learn more.To disable this, you can add `spring.cloud.azure.telemetry.enabled=false` in `application.properties` file.
