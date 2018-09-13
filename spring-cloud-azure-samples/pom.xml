@@ -47,4 +47,12 @@
         </plugins>
     </build>
 
+    <repositories>
+        <repository>
+            <id>commicrosoftazure-2603</id>
+            <name>commicrosoftazure-2603</name>
+            <url>https://oss.sonatype.org/content/repositories/commicrosoftazure-2603/</url>
+        </repository>
+    </repositories>
+
 </project>
